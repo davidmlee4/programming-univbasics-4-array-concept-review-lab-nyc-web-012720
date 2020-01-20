@@ -13,6 +13,10 @@ def find_max_value(array)
   puts array[-1]
 end
 
+max = [1,2,1,3,4,3,5,4,3,2,1]
+find_max_value(max)
+
+
 def find_min_value(array)
   array.sort!
   puts array[0]
