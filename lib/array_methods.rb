@@ -7,8 +7,8 @@ def find_element_index(array, value_to_find)
 end
 
 list = [1,2,3,4,5]
-value to find = 3
-find_element_index(array )
+number = 3
+find_element_index(list,number)
 
 
 def find_max_value(array)
