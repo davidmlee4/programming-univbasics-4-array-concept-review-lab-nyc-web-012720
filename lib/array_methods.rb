@@ -10,7 +10,7 @@ find_element_index(list,number)
 
 def find_max_value(array)
   max = array.sort
-  puts array[-1]
+  puts max[-1]
 end
 
 max = [1,2,1,3,4,3,5,4,3,2,1]
