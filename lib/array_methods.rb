@@ -6,6 +6,11 @@ def find_element_index(array, value_to_find)
   end
 end
 
+list = [1,2,3,4,5]
+value to find = 3s
+find_element_index(array )
+
+
 def find_max_value(array)
   # Add your solution here
 end
