@@ -13,7 +13,7 @@ def find_max_value(array)
   puts max[-1]
 end
 
-max = [1,2,1,3,4,3,5,4,3,2,1]
+max_list = [1,2,1,3,4,3,5,4,3,2,1]
 find_max_value(max)
 
 
