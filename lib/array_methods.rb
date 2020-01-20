@@ -9,7 +9,7 @@ number = 3
 find_element_index(list,number)
 
 def find_max_value(array)
-  array.sort!
+  max = array.sort
   puts array[-1]
 end
 
